@@ -35,3 +35,4 @@ Method 4: Additional optimization via precomputation and storage of node contrib
 % Users may also supply their own density models and node coordinate files. 
 
 % The code supports gravity and gravity gradient tensor calculations for models discretized into general trapezoidal cells-including rectangles as a special case.
+
